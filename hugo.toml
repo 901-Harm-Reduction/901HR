@@ -1,5 +1,5 @@
 baseURL = "https://example.com"
-title = "901 Harm Reduction"
+title = "901 HARM REDUCTION"
 theme = "hugo-theme-m10c"
 description = "We're a harm reduction organization based in Memphis, Tennessee!"
 
@@ -28,7 +28,7 @@ description = "We're a harm reduction organization based in Memphis, Tennessee!"
   author = "901 Harm Reduction Coalition"
   description = "We're a harm reduction organization based in Memphis, Tennessee!"
   menu_item_separator = " | "
-  avatar = "avatar.png"
+  avatar = "901HRLOGO_TRANSPARENT.png"
   [[params.social]]
     icon = "brand-github"
     name = "Github"
@@ -59,9 +59,9 @@ description = "We're a harm reduction organization based in Memphis, Tennessee!"
   #   primaryColor = "#dad865"
 
   # Red theme
-  # [params.style]
-  #   darkestColor = "#d35050"
-  #   darkColor = "#212121"
-  #   lightColor = "#d6d6d6"
-  #   lightestColor = "#d3d3d3"
-  #   primaryColor = "#ffffff"
+  [params.style]
+    darkestColor = "#d35050"
+    darkColor = "#212121"
+    lightColor = "#d6d6d6"
+    lightestColor = "#d3d3d3"
+    primaryColor = "#ffffff"
