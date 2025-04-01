@@ -14,9 +14,9 @@ description = "We're a harm reduction organization based in Memphis, Tennessee!"
     url = "/"
     weight = 1
   [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags/"
+    identifier = "cashapp"
+    name = "Donate!"
+    url = "https://cash.app/$901harmreduction"
     weight = 2
   [[menu.main]]
     identifier = "about"
@@ -30,17 +30,17 @@ description = "We're a harm reduction organization based in Memphis, Tennessee!"
   menu_item_separator = " | "
   avatar = "901HRLOGO_TRANSPARENT.png"
   [[params.social]]
-    icon = "brand-github"
-    name = "Github"
-    url = "https://github.com/gohugoio"
+    icon = "mail"
+    name = "Email"
+    url = "mailto:901harmreduction@gmail.com"
   [[params.social]]
-    icon = "brand-x"
-    name = "X"
-    url = "https://twitter.com/gohugoio"
+    icon = "phone"
+    name = "Phone"
+    url = "tel:+19016753020"
   [[params.social]]
-    icon = "brand-mastodon"
-    name = "Twitter"
-    url = "https://twitter.com/gohugoio"
+    icon = "brand-instagram"
+    name = "Instagram"
+    url = "https://instagram.com/901harmreduction"
 
   # Default theme
   # [params.style]
