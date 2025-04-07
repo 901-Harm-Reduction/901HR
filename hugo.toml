@@ -32,11 +32,7 @@ description = "We're a harm reduction organization based in Memphis, Tennessee!"
   [[params.social]]
     icon = "mail"
     name = "Email"
-    url = "mailto:901harmreduction@gmail.com"
-  [[params.social]]
-    icon = "phone"
-    name = "Phone"
-    url = "tel:+19016753020"
+    url = "/contact/"
   [[params.social]]
     icon = "brand-instagram"
     name = "Instagram"
