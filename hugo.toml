@@ -23,6 +23,11 @@ description = "We're a harm reduction organization based in Memphis, Tennessee!"
     name = "About"
     url = "/about/"
     weight = 3
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 4
 
 [params]
   author = "901 Harm Reduction Coalition"
