@@ -1,10 +1,9 @@
 ---
-title: "Reducing harm, however we can"
-date: 2025-03-30T20:44:39-05:00
-draft: false
+date: '2025-04-29T17:39:20-05:00'
+draft: true
+title: 'What Is Harm Reduction?'
 ---
 
-## What is harm reduction?
 Harm reduction as a practice is focused around reducing harm in general-- particularly harm surrounding drug use. Harm reduction programs often perform syringe exchange, for example, to reduce the risk of disease for people who use drugs (PWUD.)
 
 If you want to learn more, feel free to check out these links:
