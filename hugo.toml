@@ -9,10 +9,10 @@ description = "We're a harm reduction organization based in Memphis, Tennessee!"
 
 [menu]
   [[menu.main]]
-    identifier = "home"
-    name = "Home"
+    identifier = "posts"
+    name = "Posts"
     url = "/"
-    weight = 1
+    weight = 3
   [[menu.main]]
     identifier = "cashapp"
     name = "Donate!"
@@ -22,12 +22,7 @@ description = "We're a harm reduction organization based in Memphis, Tennessee!"
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 3
-  [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts/"
-    weight = 4
+    weight = 1
 
 [params]
   author = "901 Harm Reduction Coalition"
