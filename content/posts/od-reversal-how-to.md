@@ -41,7 +41,7 @@ Remember: in Tennessee, the Drug Overdose Immunity Law protects you from charges
 
 > The Drug Overdose Immunity Law (Tenn. Code Ann. 63-1-156) protects individuals who call for medical assistance during an overdose from prosecution for simple drug possession. While separate from the Good Samaritan Law, it aligns with the broader goal of encouraging emergency intervention. However, it does not protect individuals from charges related to drug trafficking or outstanding warrants. 
 > 
-> - LegalClarity on Tennessee Good Samaritan Law](https://legalclarity.org/good-samaritan-law-in-tennessee-what-you-need-to-know/)
+> -- [LegalClarity on Tennessee Good Samaritan Law](https://legalclarity.org/good-samaritan-law-in-tennessee-what-you-need-to-know/)
 
 ## EIGHT:
 If they wake up, STAY CALM and explain what happened!
