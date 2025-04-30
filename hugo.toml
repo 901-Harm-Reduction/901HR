@@ -37,6 +37,10 @@ description = "We're a harm reduction organization based in Memphis, Tennessee!"
     icon = "brand-instagram"
     name = "Instagram"
     url = "https://instagram.com/901harmreduction"
+  [[params.social]]
+    icon = "message-square"
+    name = "sms"
+    url = "sms:+9018402450"
 
   # Default theme
   # [params.style]
