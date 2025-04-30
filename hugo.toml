@@ -40,7 +40,7 @@ description = "We're a harm reduction organization based in Memphis, Tennessee!"
   [[params.social]]
     icon = "message-square"
     name = "sms"
-    url = "sms:+9018402450"
+    url = "sms:+19016753020"
 
   # Default theme
   # [params.style]
@@ -65,3 +65,4 @@ description = "We're a harm reduction organization based in Memphis, Tennessee!"
     lightColor = "#d6d6d6"
     lightestColor = "#d3d3d3"
     primaryColor = "#ffffff"
+

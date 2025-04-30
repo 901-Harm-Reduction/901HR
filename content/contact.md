@@ -4,7 +4,7 @@ draft: false
 title: 'Contact Us'
 ---
 
-You can reach us at organizers@901hr.org, or at our text hotline: 901-675-3020.
+You can reach us at organizers@901hr.org, or at our text hotline: [901-675-3020](sms:+19016753030).
 
 If you feel more comfortable contacting us with PGP encryption, our public key is:
 
