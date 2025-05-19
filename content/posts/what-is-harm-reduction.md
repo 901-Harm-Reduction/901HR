@@ -8,12 +8,10 @@ Harm reduction as a practice is focused around reducing harm in general-- partic
 
 If you want to learn more, feel free to check out these links:
 
-- [US gov article about harm reduction](https://www.samhsa.gov/substance-use/harm-reduction)
 - [National Harm Reduction Coalition](https://harmreduction.org/about-us/principles-of-harm-reduction/)
+- [Iowa Harm Reduction Coalition Media Guide](https://www.iowaharmreductioncoalition.org/media-guide/)
 
 ### Current Policy
 Harm reduction as a practice is taking some heavy hits across the board from the current administration. Grants are harder to come by, and a shocking amount of propaganda is flying around about what we do, and what we represent.
 
-## Calender
-Currently we distribute opioid overdose reversal kits every Saturday at Court Square Park in downtown Memphis, at the picnic held by our partner organization Food Not Bombs Memphis. We set up at 1:30, and leave around 3.
 

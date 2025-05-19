@@ -5,64 +5,63 @@ description = "We're a harm reduction organization based in Memphis, Tennessee!"
 
 
 [pagination]
-  pagerSize = 8
+pagerSize = 8
 
 [menu]
-  [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/"
-    weight = 3
-  [[menu.main]]
-    identifier = "cashapp"
-    name = "Donate!"
-    url = "https://cash.app/$901harmreduction"
-    weight = 2
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 1
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/"
+weight = 3
+[[menu.main]]
+identifier = "cashapp"
+name = "Donate!"
+url = "https://cash.app/$901harmreduction"
+weight = 2
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 1
 
 [params]
-  author = "901 Harm Reduction Coalition"
-  description = "We're a harm reduction organization based in Memphis, Tennessee!"
-  menu_item_separator = " | "
-  avatar = "901HRLOGO_TRANSPARENT.png"
-  [[params.social]]
-    icon = "mail"
-    name = "Email"
-    url = "/contact/"
-  [[params.social]]
-    icon = "brand-instagram"
-    name = "Instagram"
-    url = "https://instagram.com/901harmreduction"
-  [[params.social]]
-    icon = "message-square"
-    name = "sms"
-    url = "sms:+19016753020"
+author = "901 Harm Reduction Coalition"
+description = "We're a harm reduction organization based in Memphis, Tennessee!"
+menu_item_separator = " | "
+avatar = "901HRLOGO_TRANSPARENT.png"
+[[params.social]]
+icon = "mail"
+name = "Email"
+url = "/contact/"
+[[params.social]]
+icon = "brand-instagram"
+name = "Instagram"
+url = "https://instagram.com/901harmreduction"
+[[params.social]]
+icon = "message-square"
+name = "sms"
+url = "sms:+19016753020"
 
-  # Default theme
-  # [params.style]
-  #   darkestColor = "#242930"
-  #   darkColor = "#353b43"
-  #   lightColor = "#afbac4"
-  #   lightestColor = "#ffffff"
-  #   primaryColor = "#57cc8a"
+# Default theme
+# [params.style]
+#   darkestColor = "#242930"
+#   darkColor = "#353b43"
+#   lightColor = "#afbac4"
+#   lightestColor = "#ffffff"
+#   primaryColor = "#57cc8a"
 
-  # Green theme
-  # [params.style]
-  #   darkestColor = "#315659"
-  #   darkColor = "#253031"
-  #   lightColor = "#96a879"
-  #   lightestColor = "#fff"
-  #   primaryColor = "#dad865"
+# Green theme
+# [params.style]
+#   darkestColor = "#315659"
+#   darkColor = "#253031"
+#   lightColor = "#96a879"
+#   lightestColor = "#fff"
+#   primaryColor = "#dad865"
 
-  # Red theme
-  [params.style]
-    darkestColor = "#d35050"
-    darkColor = "#212121"
-    lightColor = "#d6d6d6"
-    lightestColor = "#d3d3d3"
-    primaryColor = "#ffffff"
-
+# Red theme
+[params.style]
+darkestColor = "#d35050"
+darkColor = "#212121"
+lightColor = "#d6d6d6"
+lightestColor = "#d3d3d3"
+primaryColor = "#ffffff"
