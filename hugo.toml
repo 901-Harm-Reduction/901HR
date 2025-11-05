@@ -9,15 +9,15 @@ pagerSize = 8
 
 [menu]
 [[menu.main]]
-identifier = "posts"
-name = "Posts"
-url = "/"
-weight = 3
+identifier = "knowledge"
+name = "Knowledge"
+url = "/knowledge/"
+weight = 2
 [[menu.main]]
 identifier = "How to Help"
 name = "Support Us"
 url = "/support/"
-weight = 2
+weight = 3
 [[menu.main]]
 identifier = "about"
 name = "About"
