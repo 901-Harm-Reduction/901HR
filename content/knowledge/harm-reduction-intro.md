@@ -6,16 +6,18 @@ title: 'What is Harm Reduction?'
 
 Harm reduction is a set of policies, programs, and practices that intend to **reduce or minimize** the negative impacts (health, social, legal) that may accompany drug use. Fundamentally, harm reduction has its roots in *social justice*. It works with the intention of alleviating harm caused directly by drugs or indirectly via legal consequences, interactions with law enforcement, loss of employment, etc. Many harm reduction practices fall into the category of evidence-based medicine, meaning that their usage has been researched extensively and peer-reviewed to ensure efficacy in not just reducing general harm, but also mortality.
 
-Harm reduction as a philosophy:
-
+### Harm reduction as a philosophy:
 > - Accepts that drug use is a **part of our world**, and seeks to **minimize** its harmful effects
 > - Understands that drug use encompasses a **wide spectrum of behavior**
 > - Establishes **quality of life** and **wellbeing** as the criteria for successful intervention
 > - Calls for a **non-judgmental provision of resources** for people who use drugs
 > - Ensures that people who use drugs have a **voice in the creation** of policies and programs that serve them
-> - *Affirms* and *empowers* people who use drugs to reduce the harms of their own drug use and support others
+> - Affirms and empowers people who use drugs to **reduce the harms of their own drug use** and **support others**
 > - Recognizes **social factors** that affect vulnerability and drug use
 > - Does not attempt to minimize or ignore the **real and tragic harm** associated with drug use
+> 
+> ![a jar of opioid overdose reversal kits. a sticker with the 901HR logo is attached.](/pictures/jar_o_naloxone.jpg)
+{.small_flex}
 
 Harm reduction in other areas can look like wearing a seatbelt while driving or sunscreen in the sun, or taking birth control- practices we use to reduce the risk involved in inherently-risky activities that we nonetheless pursue. We accept that risk as an inherent part of the activity, and strive to reduce it where we can.
 

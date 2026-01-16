@@ -74,3 +74,10 @@ darkColor = "#212121"
 lightColor = "#d6d6d6"
 lightestColor = "#d3d3d3"
 primaryColor = "#d38080"
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.parser]
+[markup.goldmark.parser.attribute]
+block = true
+title = true

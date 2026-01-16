@@ -8,7 +8,7 @@ title: 'Harm Reduction in the Face of Repression'
 
 > The deployment of the National Guard to Memphis is not to "combat crime," as the administration says. It is part of a far-ranging campaign to support the harassment, detention, and murder committed by ICE and the Department of Homeland Security across the country. The most vulnerable- the unhoused and undocumented- are subject to constant theft, harassment, and intimidation by people in camouflage uniforms. We have heard many, many stories of stolen supplies and relocation sweeps in the past few months, and anticipate further increases in repressive tactics deployed against our neighbors, comrades, and loved ones.
 
-MPD, ICE, and the National Guard are organs of the same instinct- namely, to crush, imprison, exploit and dominate the most vulnerable among us. They can and will use vague pretexts ('public intoxication,' 'disorderly conduct,' 'loitering') to justify the detention and arrest of those who don't have a roof over their heads when they sleep or a place to go when they need to unwind.These arrests are discriminatory and can be challenged in court, but the victim still suffers the indignity and torture of the arrest, confinement, and record in the meantime.
+MPD, ICE, and the National Guard are organs of the same instinct- namely, to crush, imprison, exploit and dominate the most vulnerable among us. They can and will use vague pretexts ('public intoxication,' 'disorderly conduct,' 'loitering') to justify the detention and arrest of those who don't have a roof over their heads when they sleep, or a place to go when they need to unwind. These arrests are discriminatory and can be challenged in court, but the victim still suffers the indignity and torture of arrest, confinement, and record in the meantime.
 
 If you find yourself interacting with the National Guard, federal agents, police, or an
 immigration officer (ICE), remember that...
@@ -26,7 +26,7 @@ have reasonable suspicion to detain you).
 ## YOU SHOULD NOT:
 > * You have the right to not share your citizenship or immigration status.
 > * If you have an “ID” from The HUB, that is NOT a real/standard ID. It is made
-specifically for unhoused people. do NOT wear it visibly to prevent the risk of targeting.
+specifically for unhoused people. DO NOT wear it visibly to prevent the risk of targeting.
 > * DO NOT sign anything you don’t understand. State “you wish to speak with an attorney.”
 > * Don’t rely on the Union Mission or The HUB for protection — multiple reports show they
 have called police on unhoused people with warrants upon presenting ID/legal name.

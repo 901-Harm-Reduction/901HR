@@ -4,3 +4,34 @@
   padding: 1.5rem;
 }
 
+.flex {
+  display: flex;
+  img {
+    width: 100%;
+    padding: 0.5em;
+    padding-left: 0em;
+  }
+}
+
+.small_flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  img {
+    padding: 0.5em;
+  }
+  ul {
+    font-size: 1.1em;
+    
+    li {
+      padding: .2em;
+    }
+  }
+  p {
+    flex-basis: 75%;
+  }
+}
+
+.small {
+  width: 40%
+}

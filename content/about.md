@@ -6,8 +6,10 @@ draft: false
 
 901 Harm Reduction is a public health collective based in Memphis, Tennessee!
 
+![group of volunteers standing in front of a building](/pictures/volunteers_outside_storage.jpg)
 We are a grassroots, community-led organization run by and for people who use drugs. We operate a syringe services program (SSP) and provide harm reduction supplies, resources, and training.
 The War on People Who Use Drugs has taken the lives and dignity of countless residents of the city, and across the United States, and has made marginalized lives both criminal and hazardous. Harm reduction provides an alternative to dehumanization and disempowerment. We recognise that drug use, both licit and illicit, is a fact of life, and work to reduce the harm that can come with this use.
+{.flex}
 
 These are some services we provide, aimed at increasing safety for people who use drugs here in Memphis:
 
@@ -19,6 +21,9 @@ Every Saturday from 1100 to 1300 (11 AM to 1 PM) we host a syringe service progr
 ### opioid overdose reversal kits
 These are kits containing the life-saving medicine naloxone (also known by its brand name, Narcan.) This is the medicine that reverses opioid overdose and can save the life of a person who uses drugs. We distribute these for free [every Saturday](/posts/events), and provide training in their use for anyone who wants it. We also have a short post about its use [here.](/posts/od-reversal-how-to/)
 
+![group of people putting together opioid overdose reversal kits](/pictures/kitmaking_party.jpg)
+{.small}
+
 ### sexual health supplies
 We distribute condoms, lube, Plan B, pads and tampons.
 
@@ -27,3 +32,7 @@ Due to the increase in fentanyl in local drug supplies, we provide testing kits 
 
 ### access to other organizations
 We partner with Memphis Food Not Bombs and the Democratic Socialists of America's Memphis chapter in order to distribute food and clothing at our picnics as well. These two mutual aid groups are aligned with our intention to build strong relationships with the unhoused community.
+
+![a spread of food on a white table, with green bean casserole, noodles, and pancakes in frame.](/pictures/fnb_spread.jpg) 
+![a fridge full of black plastic containers of food and plastic water bottles](/pictures/full_fridge.jpg) 
+{.flex}
