@@ -12,6 +12,9 @@ These are some services we provide, aimed at increasing safety for people who us
 
 ### Services
 
+#### syringe service program
+Every Saturday from 1100 to 1300 (11 AM to 1 PM) we host a syringe exchange program at Light of Glory International Church, where people who use injectable drugs can exchange dirty syringes for clean ones, helping to prevent the spread of HIV/AIDS and other infectious diseases.
+
 #### opioid overdose reversal kits
 These are kits containing the life-saving medicine naloxone (also known by its brand name, Narcan.) This is the medicine that reverses opioid overdose and can save the life of a person who uses drugs. We distribute these for free [every Saturday](/posts/events), and provide training in their use for anyone who wants it. We also have a short post about its use [here.](/posts/od-reversal-how-to/)
 

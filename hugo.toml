@@ -11,7 +11,7 @@ pagerSize = 8
 [[menu.main]]
 identifier = "knowledge"
 name = "Knowledge"
-url = "/knowledge/"
+url = "/knowledge/home"
 weight = 2
 [[menu.main]]
 identifier = "How to Help"
