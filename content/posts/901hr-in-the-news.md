@@ -25,10 +25,10 @@ have reasonable suspicion to detain you).
 
 ## YOU SHOULD NOT:
 > * You have the right to not share your citizenship or immigration status.
-> ● If you have an “ID” from The HUB, that is NOT a real/standard ID. It is made
+> * If you have an “ID” from The HUB, that is NOT a real/standard ID. It is made
 specifically for unhoused people. do NOT wear it visibly to prevent the risk of targeting.
-> ● DO NOT sign anything you don’t understand. State “you wish to speak with an attorney.”
-> ● Don’t rely on the Union Mission or The HUB for protection — multiple reports show they
+> * DO NOT sign anything you don’t understand. State “you wish to speak with an attorney.”
+> * Don’t rely on the Union Mission or The HUB for protection — multiple reports show they
 have called police on unhoused people with warrants upon presenting ID/legal name.
 
 ## USING TENTS WHILE UNHOUSED IS ILLEGAL IN MEMPHIS:
