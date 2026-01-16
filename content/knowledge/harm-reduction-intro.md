@@ -27,3 +27,8 @@ Harm reduction specifically relating to drugs can look like:
 - Distribute narcan/naloxone, empowering people who use drugs and their loved ones to reverse an overdose and save their life.
 - Providing access to wanted medical, legal, and mental health services, to better care for people who use drugs, and potentially address root causes of substance use disorders.
 - Assisting with low-threshold medication-assisted-treatment (MAT).
+
+If you're curious and would like to learn more, information can be found at the following links:
+
+- [National Harm Reduction Coalition](https://harmreduction.org/about-us/principles-of-harm-reduction/)
+- [Iowa Harm Reduction Coalition Media Guide](https://www.iowaharmreductioncoalition.org/media-guide/)
