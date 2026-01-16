@@ -10,21 +10,19 @@ The War on People Who Use Drugs has taken the lives and dignity of countless res
 
 These are some services we provide, aimed at increasing safety for people who use drugs here in Memphis:
 
-### Services
+## Services
 
-#### syringe service program
-Every Saturday from 1100 to 1300 (11 AM to 1 PM) we host a syringe exchange program at Light of Glory International Church, where people who use injectable drugs can exchange dirty syringes for clean ones, helping to prevent the spread of HIV/AIDS and other infectious diseases.
+### syringe service program
+Every Saturday from 1100 to 1300 (11 AM to 1 PM) we host a syringe exchange program at Light of Glory International Church, where people who use injectable drugs can exchange dirty syringes for clean ones, helping to prevent the spread of HIV/AIDS and other blood-born illnesses.
 
-#### opioid overdose reversal kits
+### opioid overdose reversal kits
 These are kits containing the life-saving medicine naloxone (also known by its brand name, Narcan.) This is the medicine that reverses opioid overdose and can save the life of a person who uses drugs. We distribute these for free [every Saturday](/posts/events), and provide training in their use for anyone who wants it. We also have a short post about its use [here.](/posts/od-reversal-how-to/)
 
-#### sexual health supplies
+### sexual health supplies
 We distribute condoms, lube, Plan B, pads and tampons.
 
-#### fentaynl test strips
+### fentaynl test strips
 Due to the increase in fentanyl in local drug supplies, we provide testing kits to help people who use drugs have the most information they can about the drugs they intend to use. Knowledge of the presence of fentanyl in one's supply can save lives. 
 
-resources and tools, and a safe space to communicate and empower our community of people who use drugs (PWUD)!
-
-#### access to other organizations
-Currently, we partner with Memphis Food Not Bombs and the Democratic Socialists of America Memphis chapter in order to distribute food and clothing at our picnics as well. These two mutual aid groups are aligned with our intention to build strong relationships with the unhoused community.
+### access to other organizations
+We partner with Memphis Food Not Bombs and the Democratic Socialists of America's Memphis chapter in order to distribute food and clothing at our picnics as well. These two mutual aid groups are aligned with our intention to build strong relationships with the unhoused community.

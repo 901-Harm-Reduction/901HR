@@ -4,7 +4,10 @@ draft: false
 title: 'Events'
 ---
 
-## Calender
-We currently distribute opioid overdose reversal kits every Saturday at Court Square Park in downtown Memphis, at the picnic held by our partner organization Food Not Bombs Memphis. We set up at 1:30, and leave around 3. 
+## Calendar
 
-Additionally, we aim to have a syringe service program in operation by fall of 2025. The dates and location for this program are not yet known.
+### Picnics
+We distribute opioid overdose reversal kits and safer smoking supplies every Saturday at Court Square Park in downtown Memphis at the picnic held by our partner program, Food Not Bombs. We set up at 1:30, and leave around 3 (Whenever MFNB's food runs out). 
+
+### Syringe Service Program
+We operate a syringe service program nearby on the same day, at Light Of Glory International Church, where we distribute safer injection supplies.
