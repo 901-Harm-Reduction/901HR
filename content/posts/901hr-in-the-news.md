@@ -20,7 +20,7 @@ immigration officer (ICE), remember that...
 > * You only need to give your name and address (if known) under Tennessee law.
 
 ## YOU HAVE THE RIGHT TO:
-> ● If officers say you are not free to leave, you have the right to ask why (they must
+> * If officers say you are not free to leave, you have the right to ask why (they must
 have reasonable suspicion to detain you).
 
 ## YOU SHOULD NOT:
@@ -32,9 +32,9 @@ specifically for unhoused people. do NOT wear it visibly to prevent the risk of 
 have called police on unhoused people with warrants upon presenting ID/legal name.
 
 ## USING TENTS WHILE UNHOUSED IS ILLEGAL IN MEMPHIS:
-> ● Tennessee law makes camping on public property a felony.
-> ● This includes tents, tarps, or shelters in parks, under bridges, or on sidewalks.
-> ● Violations can lead to up to six years in prison and fines.
-> ● If possible, avoid setting up visible structures and stay in groups for safety.
+> * Tennessee law makes camping on public property a felony.
+> * This includes tents, tarps, or shelters in parks, under bridges, or on sidewalks.
+> * Violations can lead to up to six years in prison and fines.
+> * If possible, avoid setting up visible structures and stay in groups for safety.
 
 *[This information is available as a printable flier.](/files/NG_InfoDoc.pdf) Feel free to distribute it as you see fit.*
