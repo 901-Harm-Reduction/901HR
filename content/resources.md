@@ -6,6 +6,9 @@ title: 'Resources'
 
 ## Local Resources
 
+### Vecindarios 901
+[Vecindarios 901](https://www.instagram.com/vecindarios901/) is a rapid response group local to Memphis, aimed at combatting and responding to detentions carried out by ICE. They host trainings for those who would like to legally observe and monitor ICE, field both response and reconnaissance teams to maintain a picture of ICE's activities in Memphis. 
+
 ### A Betor Way
 [A Betor Way](https://abetorway.org/) is another harm reduction org based in Memphis.
 
