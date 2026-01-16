@@ -29,3 +29,6 @@ title: 'Resources'
 Pipes are harm reduction! Smokeworks primarily focuses on alternatives to injection, and donates pipes to harm reduction organizations across the US, including 901HR!
 
 Here is their [bibliography](https://smokeworks.org/pages/resource-library) of scientific resources around public health and pipes.
+
+### Points of Distribution
+POD focuses on safer injection supplies, and provides a gap fund to smaller organizations like ours aiming to get off the ground and become self-sufficient.
