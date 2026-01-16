@@ -6,6 +6,7 @@ draft: false
 
 901 Harm Reduction is a public health collective based in Memphis, Tennessee!
 
+We are a grassroots, community-led organization run by and for people who use drugs. We operate a syringe services program (SSP) and provide harm reduction supplies, resources, and training.
 The War on People Who Use Drugs has taken the lives and dignity of countless residents of the city, and across the United States, and has made marginalized lives both criminal and hazardous. Harm reduction provides an alternative to dehumanization and disempowerment. We recognise that drug use, both licit and illicit, is a fact of life, and work to reduce the harm that can come with this use.
 
 These are some services we provide, aimed at increasing safety for people who use drugs here in Memphis:
@@ -13,7 +14,7 @@ These are some services we provide, aimed at increasing safety for people who us
 ## Services
 
 ### syringe service program
-Every Saturday from 1100 to 1300 (11 AM to 1 PM) we host a syringe exchange program at Light of Glory International Church, where people who use injectable drugs can exchange dirty syringes for clean ones, helping to prevent the spread of HIV/AIDS and other blood-born illnesses.
+Every Saturday from 1100 to 1300 (11 AM to 1 PM) we host a syringe service program at Light of Glory International Church, where people who use injectable drugs can exchange dirty syringes for clean ones, helping to prevent the spread of HIV/AIDS and other blood-born illnesses.
 
 ### opioid overdose reversal kits
 These are kits containing the life-saving medicine naloxone (also known by its brand name, Narcan.) This is the medicine that reverses opioid overdose and can save the life of a person who uses drugs. We distribute these for free [every Saturday](/posts/events), and provide training in their use for anyone who wants it. We also have a short post about its use [here.](/posts/od-reversal-how-to/)

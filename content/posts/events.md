@@ -11,3 +11,6 @@ We distribute opioid overdose reversal kits and safer smoking supplies every Sat
 
 ### Syringe Service Program
 We operate a syringe service program nearby on the same day, at Light Of Glory International Church, where we distribute safer injection supplies.
+
+### Drug User's Union
+Every third Saturday of the month, we support and invite our participants to come to the Drug User's union, where we discuss the local ways our criminal “justice” system fails us and hurts us. We work together to organize around a local campaign we all care about; individually we might feel powerless, but with the power of the people coming together, change can happen!
