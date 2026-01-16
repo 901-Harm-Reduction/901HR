@@ -15,7 +15,7 @@ title: 'Resources'
 ## Education
 
 ### Decarcerate Memphis
-[Decarcerate](https://decarceratememphis.org/) is a prison abolitionist organization aiming to end imprisonment and legal slavery in Memphis. The Drug War is largely responsible for many incarcerated people's captivity, especially Black and brown folks. Uneven, deliberate stigmatization of substances more often used by people of color compared to, for example, alcohol or tobacco, is a product and example of systemic racism. Reducing harm for those who use drugs is not limited to the harms inherent to drug use, but extends to harms inflicted by the state.
+[Decarcerate](https://decarceratememphis.org/) is a prison abolitionist organization aiming to end imprisonment and legal slavery in Memphis. The Drug War is largely responsible for many incarcerated people's captivity, especially Black and brown folks. Uneven, deliberate stigmatization of substances more often used by people of color compared to, for example, alcohol or tobacco, is a product and example of systemic racism. Reducing harm for those who use drugs is not limited to the harms inherent to drug use, but extends to those harms inflicted by the state.
 
 ### Errowid
 [Errowid](https://www.erowid.org/) is a nonprofit "Documenting the Complex Relationship Between Humans and Psychoactives." They have an extensive log of first-hand accounts of experience with almost every drug imaginable, and combinations thereof. 
